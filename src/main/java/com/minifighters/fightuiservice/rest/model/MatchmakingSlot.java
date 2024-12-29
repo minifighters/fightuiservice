@@ -1,4 +1,4 @@
-package com.roboter5123.minifighter.fightuiservice.rest.model;
+package com.minifighters.fightuiservice.rest.model;
 import lombok.Data;
 
 @Data

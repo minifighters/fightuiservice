@@ -1,7 +1,7 @@
-package com.roboter5123.minifighter.fightuiservice.rest;
+package com.minifighters.fightuiservice.rest;
 
 import com.frameboter.rest.AbstractResource;
-import com.roboter5123.minifighter.fightuiservice.rest.model.Ping;
+import com.minifighters.fightuiservice.rest.model.Ping;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;

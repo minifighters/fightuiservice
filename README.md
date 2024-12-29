@@ -1,6 +1,6 @@
-# minifighter_fightuiservice
+# fightuiservice
 
-This is an easy-to-use minifighter_fightuiservice for all of my backend services. 
+This is an easy-to-use fightuiservice for all of my backend services. 
 It uses a parent pom which pulls packages that I made which configure a lot of basic things.
 
 # These things include:
@@ -16,5 +16,5 @@ It uses a parent pom which pulls packages that I made which configure a lot of b
 
 # Usage
 
-After you use this minifighter_fightuiservice on GitHub you will need to change a few things. These generally only include the name of your service.
-To do this easily just use find and replace to replace "minifighter_fightuiservice" with your service name.
+After you use this fightuiservice on GitHub you will need to change a few things. These generally only include the name of your service.
+To do this easily just use find and replace to replace "fightuiservice" with your service name.

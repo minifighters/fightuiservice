@@ -1,6 +1,6 @@
-package com.roboter5123.minifighter.fightuiservice.rest;
-import com.roboter5123.minifighter.fightuiservice.Application;
-import com.roboter5123.minifighter.fightuiservice.rest.model.Ping;
+package com.minifighters.fightuiservice.rest;
+import com.minifighters.fightuiservice.Application;
+import com.minifighters.fightuiservice.rest.model.Ping;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

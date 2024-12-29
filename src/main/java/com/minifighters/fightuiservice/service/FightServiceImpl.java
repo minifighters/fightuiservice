@@ -1,6 +1,6 @@
-package com.roboter5123.minifighter.fightuiservice.service;
-import com.roboter5123.minifighter.fightuiservice.rest.model.MatchmakingSlot;
-import com.roboter5123.minifighter.fightuiservice.stomp.model.FightJoinReply;
+package com.minifighters.fightuiservice.service;
+import com.minifighters.fightuiservice.rest.model.MatchmakingSlot;
+import com.minifighters.fightuiservice.stomp.model.FightJoinReply;
 import org.springframework.stereotype.Service;
 
 @Service
