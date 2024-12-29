@@ -8,7 +8,7 @@
         <version>0.1.0-SNAPSHOT</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.frameboter</groupId>
+    <groupId>com.minifighters</groupId>
     <artifactId>fightuiservice</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>fightuiservice</name>
