@@ -1,6 +1,6 @@
-package com.roboter5123.minifighter.fightuiservice.stomp;
-import com.roboter5123.minifighter.fightuiservice.service.FightService;
-import com.roboter5123.minifighter.fightuiservice.stomp.model.FightJoinReply;
+package com.minifighters.fightuiservice.stomp;
+import com.minifighters.fightuiservice.service.FightService;
+import com.minifighters.fightuiservice.stomp.model.FightJoinReply;
 import lombok.extern.java.Log;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.handler.annotation.DestinationVariable;

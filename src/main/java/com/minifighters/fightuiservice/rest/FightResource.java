@@ -1,7 +1,7 @@
-package com.roboter5123.minifighter.fightuiservice.rest;
+package com.minifighters.fightuiservice.rest;
 import com.frameboter.rest.AbstractResource;
-import com.roboter5123.minifighter.fightuiservice.rest.model.MatchmakingSlot;
-import com.roboter5123.minifighter.fightuiservice.service.FightService;
+import com.minifighters.fightuiservice.rest.model.MatchmakingSlot;
+import com.minifighters.fightuiservice.service.FightService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;

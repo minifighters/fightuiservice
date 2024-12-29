@@ -1,4 +1,4 @@
-package com.roboter5123.minifighter.fightuiservice.config;
+package com.minifighters.fightuiservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

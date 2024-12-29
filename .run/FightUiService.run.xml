@@ -9,9 +9,9 @@
       <option name="Make" enabled="true" />
     </method>
   </configuration>
-  <configuration default="false" name="FightUiService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-    <module name="template" />
-    <option name="SPRING_BOOT_MAIN_CLASS" value="com.roboter5123.minifighter.fightuiservice.Application" />
+  <configuration default="false" name="fightuiservice" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="fightuiservice" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.minifighters.fightuiservice.Application" />
     <method v="2">
       <option name="Make" enabled="true" />
     </method>
