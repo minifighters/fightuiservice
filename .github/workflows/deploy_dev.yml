@@ -36,7 +36,9 @@ jobs:
         run: |
           echo "REPO_LC=${REPO,,}" >>${GITHUB_ENV}
         env:
-          REPO: '${{ github.event.repository.name }}
+          REPO: '${{ github.event.repository.name }}'
+
+
       - name: Build & push Docker image
         uses: mr-smithers-excellent/docker-build-push@v5
         with:
