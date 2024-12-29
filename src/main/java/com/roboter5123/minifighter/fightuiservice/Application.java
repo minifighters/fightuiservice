@@ -1,4 +1,4 @@
-package com.frameboter.template;
+package com.roboter5123.minifighter.fightuiservice;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

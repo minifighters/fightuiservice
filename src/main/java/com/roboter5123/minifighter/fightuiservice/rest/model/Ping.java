@@ -1,4 +1,4 @@
-package com.frameboter.template.rest.model;
+package com.roboter5123.minifighter.fightuiservice.rest.model;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.AllArgsConstructor;

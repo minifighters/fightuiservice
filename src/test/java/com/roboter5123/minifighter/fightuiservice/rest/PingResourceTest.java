@@ -1,7 +1,6 @@
-package com.frameboter.template.rest;
-
-import com.frameboter.template.Application;
-import com.frameboter.template.rest.model.Ping;
+package com.roboter5123.minifighter.fightuiservice.rest;
+import com.roboter5123.minifighter.fightuiservice.Application;
+import com.roboter5123.minifighter.fightuiservice.rest.model.Ping;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -10,7 +9,7 @@ import org.springframework.security.oauth2.jwt.Jwt;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @SpringBootTest(classes = Application.class)
 class PingResourceTest {
@@ -20,7 +19,6 @@ class PingResourceTest {
 
     @Test
     void ping_shouldReturnCurrentTime() {
-
 
         HashMap<String, Object> headers = new HashMap<>();
         headers.put("alg", "RS256");
